@@ -1,0 +1,37 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.designbest.berlandaproject"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.designbest.berlandaproject"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.designbest.berlandaproject"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.designbest.berlandaproject"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.designbest.berlandaproject"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.designbest.berlandaproject"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.designbest.berlandaproject"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "xxxxx",
+            "PACKAGE_NAME": "com.designbest.berlandaproject"
+        }
+    },
+    "dependent_plugins": {}
+}
